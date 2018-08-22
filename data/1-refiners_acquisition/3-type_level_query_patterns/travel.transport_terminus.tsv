@@ -1,0 +1,938 @@
+[travel.transport_terminus]	397
+[travel.transport_terminus] map	188
+[travel.transport_terminus] parking	104
+[travel.transport_terminus] address	97
+[travel.transport_terminus] departures	70
+[travel.transport_terminus] arrivals	70
+[travel.transport_terminus] code	60
+[travel.transport_terminus] hotel	58
+[travel.transport_terminus] car rental	50
+[travel.transport_terminus] hotels	44
+[travel.transport_terminus] food	40
+[travel.transport_terminus] restaurants	35
+[travel.transport_terminus] lockers	35
+[travel.transport_terminus] jobs	34
+[travel.transport_terminus] to airport	33
+[travel.transport_terminus] shops	31
+[travel.transport_terminus] station	29
+[travel.transport_terminus] postcode	24
+[travel.transport_terminus] luggage storage	17
+[travel.transport_terminus] weather	14
+[travel.transport_terminus] to city	14
+[travel.transport_terminus] schedule	14
+[travel.transport_terminus] directions	14
+[travel.transport_terminus] location	13
+[travel.transport_terminus] shuttle	12
+[travel.transport_terminus] flights	12
+[travel.transport_terminus] train	11
+[travel.transport_terminus] metro	11
+[travel.transport_terminus] history	11
+[travel.transport_terminus] duty free	11
+[travel.transport_terminus] wiki	10
+[travel.transport_terminus] phone number	10
+[travel.transport_terminus] bus	10
+[travel.transport_terminus] train station	9
+[travel.transport_terminus] terminal 2	9
+[travel.transport_terminus] shopping	9
+[travel.transport_terminus] left luggage	9
+[travel.transport_terminus] timetable	8
+[travel.transport_terminus] new zealand	8
+[travel.transport_terminus] to city centre	7
+[travel.transport_terminus] terminal 3	7
+[travel.transport_terminus] terminal 1	7
+[travel.transport_terminus] news	7
+[travel.transport_terminus] hours	7
+[travel.transport_terminus] plan	6
+[travel.transport_terminus] lost and found	6
+[travel.transport_terminus] food court	6
+[travel.transport_terminus] destinations	6
+[travel.transport_terminus] airlines	6
+[travel.transport_terminus] wifi	5
+[travel.transport_terminus] paris	5
+[travel.transport_terminus] opening hours	5
+[travel.transport_terminus] number	5
+[travel.transport_terminus] lounge	5
+[travel.transport_terminus] contact number	5
+[travel.transport_terminus] construction	5
+[travel.transport_terminus] car hire	5
+hotels near [travel.transport_terminus]	4
+[travel.transport_terminus] wetter	4
+[travel.transport_terminus] webcam	4
+[travel.transport_terminus] to gatwick	4
+[travel.transport_terminus] to disneyland	4
+[travel.transport_terminus] to cdg	4
+[travel.transport_terminus] terminals	4
+[travel.transport_terminus] taxi	4
+[travel.transport_terminus] station address	4
+[travel.transport_terminus] parking rates	4
+[travel.transport_terminus] norway	4
+[travel.transport_terminus] lost property	4
+[travel.transport_terminus] london	4
+[travel.transport_terminus] exits	4
+[travel.transport_terminus] departure	4
+[travel.transport_terminus] contact	4
+[travel.transport_terminus] closure	4
+[travel.transport_terminus] closed	4
+[travel.transport_terminus] cafe	4
+[travel.transport_terminus] amtrak	4
+[travel.transport_terminus] adresse	4
+dublin airport [travel.transport_terminus]	3
+amtrak [travel.transport_terminus]	3
+[travel.transport_terminus] zip code	3
+[travel.transport_terminus] transfers	3
+[travel.transport_terminus] train schedule	3
+[travel.transport_terminus] torino	3
+[travel.transport_terminus] to narita airport	3
+[travel.transport_terminus] to milan	3
+[travel.transport_terminus] to london	3
+[travel.transport_terminus] to logan airport	3
+[travel.transport_terminus] to heathrow	3
+[travel.transport_terminus] to great wall	3
+[travel.transport_terminus] tickets	3
+[travel.transport_terminus] terminal	3
+[travel.transport_terminus] telephone	3
+[travel.transport_terminus] subway map	3
+[travel.transport_terminus] subway	3
+[travel.transport_terminus] stores	3
+[travel.transport_terminus] stop	3
+[travel.transport_terminus] starbucks	3
+[travel.transport_terminus] skyscrapercity	3
+[travel.transport_terminus] restaurant	3
+[travel.transport_terminus] in chinese	3
+[travel.transport_terminus] car rentals	3
+[travel.transport_terminus] car park	3
+[travel.transport_terminus] bart	3
+[travel.transport_terminus] arrival	3
+[travel.transport_terminus] architecture	3
+[travel.transport_terminus] airport bus	3
+[travel.transport_terminus] airport	3
+shanghai [travel.transport_terminus]	2
+metro bilbao [travel.transport_terminus]	2
+metro [travel.transport_terminus]	2
+cta [travel.transport_terminus]	2
+[travel.transport_terminus]er	2
+[travel.transport_terminus]7	2
+[travel.transport_terminus]5	2
+[travel.transport_terminus]0	2
+[travel.transport_terminus] österreich	2
+[travel.transport_terminus] zone	2
+[travel.transport_terminus] west exit	2
+[travel.transport_terminus] wedding	2
+[travel.transport_terminus] website	2
+[travel.transport_terminus] wasserfall	2
+[travel.transport_terminus] wa	2
+[travel.transport_terminus] tunnel	2
+[travel.transport_terminus] tube	2
+[travel.transport_terminus] to vancouver	2
+[travel.transport_terminus] to tokyo station	2
+[travel.transport_terminus] to tokyo	2
+[travel.transport_terminus] to shinjuku station	2
+[travel.transport_terminus] to san francisco	2
+[travel.transport_terminus] to pearson airport	2
+[travel.transport_terminus] to paris	2
+[travel.transport_terminus] to paddington	2
+[travel.transport_terminus] to oslo airport	2
+[travel.transport_terminus] to oslo	2
+[travel.transport_terminus] to milano centrale	2
+[travel.transport_terminus] to malmo	2
+[travel.transport_terminus] to macau	2
+[travel.transport_terminus] to luton airport	2
+[travel.transport_terminus] to lake como	2
+[travel.transport_terminus] to kings cross	2
+[travel.transport_terminus] to hua hin	2
+[travel.transport_terminus] to gare de lyon	2
+[travel.transport_terminus] to dfw	2
+[travel.transport_terminus] to chinatown	2
+[travel.transport_terminus] to charleroi airport	2
+[travel.transport_terminus] to bruges	2
+[travel.transport_terminus] to brighton	2
+[travel.transport_terminus] to amsterdam central	2
+[travel.transport_terminus] tides	2
+[travel.transport_terminus] terminal c	2
+[travel.transport_terminus] terminal b	2
+[travel.transport_terminus] terminal 5	2
+[travel.transport_terminus] terminal 4	2
+[travel.transport_terminus] telephone number	2
+[travel.transport_terminus] station map	2
+[travel.transport_terminus] singapore	2
+[travel.transport_terminus] shinkansen	2
+[travel.transport_terminus] real estate	2
+[travel.transport_terminus] progress	2
+[travel.transport_terminus] playground	2
+[travel.transport_terminus] platforms	2
+[travel.transport_terminus] photos	2
+[travel.transport_terminus] paris france	2
+[travel.transport_terminus] oslo	2
+[travel.transport_terminus] new york	2
+[travel.transport_terminus] near me	2
+[travel.transport_terminus] museum	2
+[travel.transport_terminus] mrt	2
+[travel.transport_terminus] mini schedule	2
+[travel.transport_terminus] luggage lockers	2
+[travel.transport_terminus] lounges	2
+[travel.transport_terminus] long term parking	2
+[travel.transport_terminus] line	2
+[travel.transport_terminus] light rail	2
+[travel.transport_terminus] japan	2
+[travel.transport_terminus] italy	2
+[travel.transport_terminus] horaires	2
+[travel.transport_terminus] helsinki finland	2
+[travel.transport_terminus] garage	2
+[travel.transport_terminus] fsx	2
+[travel.transport_terminus] food trucks	2
+[travel.transport_terminus] flixbus	2
+[travel.transport_terminus] flight status	2
+[travel.transport_terminus] ferry	2
+[travel.transport_terminus] events	2
+[travel.transport_terminus] eurostar	2
+[travel.transport_terminus] emmerich	2
+[travel.transport_terminus] design	2
+[travel.transport_terminus] chicago	2
+[travel.transport_terminus] canada	2
+[travel.transport_terminus] bus terminal	2
+[travel.transport_terminus] bruxelles	2
+[travel.transport_terminus] brussels	2
+[travel.transport_terminus] bahnhof	2
+[travel.transport_terminus] authority	2
+[travel.transport_terminus] austria	2
+[travel.transport_terminus] apartments	2
+[travel.transport_terminus] adres	2
+[travel.transport_terminus] accommodation	2
+ttc [travel.transport_terminus] union	1
+ttc [travel.transport_terminus] southbound at eglinton	1
+ttc [travel.transport_terminus] southbound	1
+ttc [travel.transport_terminus] renovation	1
+ttc [travel.transport_terminus] bus schedule	1
+ttc [travel.transport_terminus]	1
+station [travel.transport_terminus]	1
+stadtrad [travel.transport_terminus] altona	1
+sixt [travel.transport_terminus]	1
+shanghai [travel.transport_terminus] pudong airport metro	1
+shanghai [travel.transport_terminus] line	1
+restaurants near [travel.transport_terminus]	1
+re5 [travel.transport_terminus]en	1
+raebareli [travel.transport_terminus]	1
+plessis [travel.transport_terminus]	1
+parada [travel.transport_terminus] sevilla	1
+oslo [travel.transport_terminus] airport (trf)	1
+new dorp [travel.transport_terminus]	1
+milan bergamo [travel.transport_terminus]	1
+metro station [travel.transport_terminus]	1
+metro orange/red line station [travel.transport_terminus]	1
+metro [travel.transport_terminus] horarios	1
+mbta senior pass [travel.transport_terminus]	1
+mbta providence to [travel.transport_terminus]	1
+mbta free [travel.transport_terminus]	1
+mbta commuter rail [travel.transport_terminus]	1
+mbta [travel.transport_terminus]	1
+lysaker [travel.transport_terminus]	1
+los angeles metro red line [travel.transport_terminus]	1
+le plessis [travel.transport_terminus] paris	1
+kvb [travel.transport_terminus] telefonnummer	1
+kvb [travel.transport_terminus] fahrplan	1
+kastrup station til [travel.transport_terminus]	1
+hotels near [travel.transport_terminus] radarweg	1
+hotel ibis [travel.transport_terminus] findel	1
+hotel [travel.transport_terminus]	1
+horarios de metro [travel.transport_terminus]	1
+hertz [travel.transport_terminus]	1
+helsinki [travel.transport_terminus]	1
+haneda [travel.transport_terminus] to chofu station	1
+hamburg airport [travel.transport_terminus]	1
+guangzhou [travel.transport_terminus] to beijing	1
+guadalajara don [travel.transport_terminus]	1
+greyhound station [travel.transport_terminus]	1
+greyhound [travel.transport_terminus] address	1
+graz hauptbahnhof [travel.transport_terminus]	1
+grace house - [travel.transport_terminus]	1
+gare [travel.transport_terminus] adresse	1
+gare [travel.transport_terminus]	1
+food near [travel.transport_terminus]	1
+flights to [travel.transport_terminus]	1
+don [travel.transport_terminus] (gdl)	1
+cta [travel.transport_terminus] grove	1
+cermak [travel.transport_terminus]	1
+bus from dublin airport [travel.transport_terminus]	1
+burbank-bob [travel.transport_terminus] united states	1
+berlin [travel.transport_terminus]	1
+bergamo [travel.transport_terminus] (bgy)	1
+bergamo [travel.transport_terminus]	1
+austin airport [travel.transport_terminus]	1
+amt [travel.transport_terminus] schedule	1
+amt [travel.transport_terminus]	1
+amsterdam central to [travel.transport_terminus]	1
+amsterdam [travel.transport_terminus]	1
+airport [travel.transport_terminus]	1
+[travel.transport_terminus]杯	1
+[travel.transport_terminus]way map	1
+[travel.transport_terminus]way line queensland	1
+[travel.transport_terminus]way	1
+[travel.transport_terminus]ton cycle	1
+[travel.transport_terminus]shire	1
+[travel.transport_terminus]s of the cross	1
+[travel.transport_terminus]s in paris	1
+[travel.transport_terminus]s in london	1
+[travel.transport_terminus]road museum	1
+[travel.transport_terminus]ola	1
+[travel.transport_terminus]na	1
+[travel.transport_terminus]ings and gates	1
+[travel.transport_terminus]i	1
+[travel.transport_terminus]er horse	1
+[travel.transport_terminus]en	1
+[travel.transport_terminus]den	1
+[travel.transport_terminus]ce	1
+[travel.transport_terminus]brook	1
+[travel.transport_terminus]9	1
+[travel.transport_terminus]2	1
+[travel.transport_terminus]'s pizza	1
+[travel.transport_terminus] вокзала сериал	1
+[travel.transport_terminus] öppettider	1
+[travel.transport_terminus] zoning regulations	1
+[travel.transport_terminus] youtube	1
+[travel.transport_terminus] wyatt wife	1
+[travel.transport_terminus] wyatt	1
+[travel.transport_terminus] willemstad curaçao curacao	1
+[travel.transport_terminus] whole foods	1
+[travel.transport_terminus] wedding price	1
+[travel.transport_terminus] wedding cost	1
+[travel.transport_terminus] way metrolink station	1
+[travel.transport_terminus] wanderers	1
+[travel.transport_terminus] vokzala	1
+[travel.transport_terminus] viking line	1
+[travel.transport_terminus] video	1
+[travel.transport_terminus] venezuela	1
+[travel.transport_terminus] vecchia	1
+[travel.transport_terminus] vanuatu	1
+[travel.transport_terminus] vancouver bc canada	1
+[travel.transport_terminus] valley pa	1
+[travel.transport_terminus] valley	1
+[travel.transport_terminus] va	1
+[travel.transport_terminus] upgrade	1
+[travel.transport_terminus] up	1
+[travel.transport_terminus] university	1
+[travel.transport_terminus] united states	1
+[travel.transport_terminus] union station	1
+[travel.transport_terminus] tx	1
+[travel.transport_terminus] twitter	1
+[travel.transport_terminus] travaux	1
+[travel.transport_terminus] transfer	1
+[travel.transport_terminus] train times	1
+[travel.transport_terminus] train station schedule	1
+[travel.transport_terminus] tracker	1
+[travel.transport_terminus] toll	1
+[travel.transport_terminus] tokyo	1
+[travel.transport_terminus] to zhuhai	1
+[travel.transport_terminus] to zhongshan	1
+[travel.transport_terminus] to zell am see	1
+[travel.transport_terminus] to yvr	1
+[travel.transport_terminus] to yanqing	1
+[travel.transport_terminus] to watford junction	1
+[travel.transport_terminus] to vivocity	1
+[travel.transport_terminus] to vilnius train	1
+[travel.transport_terminus] to vilnius	1
+[travel.transport_terminus] to versailles	1
+[travel.transport_terminus] to venice	1
+[travel.transport_terminus] to venetian hotel	1
+[travel.transport_terminus] to value hotel thomson	1
+[travel.transport_terminus] to uppsala	1
+[travel.transport_terminus] to universal studios	1
+[travel.transport_terminus] to union station schedule	1
+[travel.transport_terminus] to union station	1
+[travel.transport_terminus] to union	1
+[travel.transport_terminus] to uea	1
+[travel.transport_terminus] to uc berkeley	1
+[travel.transport_terminus] to ubud	1
+[travel.transport_terminus] to tsim sha tsui	1
+[travel.transport_terminus] to trier	1
+[travel.transport_terminus] to trenton	1
+[travel.transport_terminus] to toronto	1
+[travel.transport_terminus] to tianjin	1
+[travel.transport_terminus] to the shard	1
+[travel.transport_terminus] to temple bar	1
+[travel.transport_terminus] to te papa	1
+[travel.transport_terminus] to tai o	1
+[travel.transport_terminus] to suvarnabhumi airport	1
+[travel.transport_terminus] to stansted airport	1
+[travel.transport_terminus] to stansted	1
+[travel.transport_terminus] to st pauli	1
+[travel.transport_terminus] to st helier	1
+[travel.transport_terminus] to southend central	1
+[travel.transport_terminus] to south station	1
+[travel.transport_terminus] to sorrento	1
+[travel.transport_terminus] to shinjuku	1
+[travel.transport_terminus] to shenzhen	1
+[travel.transport_terminus] to shekou	1
+[travel.transport_terminus] to shanghai pudong international airport	1
+[travel.transport_terminus] to shanghai	1
+[travel.transport_terminus] to sfo	1
+[travel.transport_terminus] to sentosa	1
+[travel.transport_terminus] to seminyak	1
+[travel.transport_terminus] to seattle	1
+[travel.transport_terminus] to seatac airport	1
+[travel.transport_terminus] to schiphol	1
+[travel.transport_terminus] to san jose airport	1
+[travel.transport_terminus] to san diego	1
+[travel.transport_terminus] to salzburg	1
+[travel.transport_terminus] to salem	1
+[travel.transport_terminus] to puri	1
+[travel.transport_terminus] to pudong airport	1
+[travel.transport_terminus] to providence	1
+[travel.transport_terminus] to pratunam	1
+[travel.transport_terminus] to potsdamer platz	1
+[travel.transport_terminus] to positano	1
+[travel.transport_terminus] to port douglas	1
+[travel.transport_terminus] to port canaveral	1
+[travel.transport_terminus] to pirkkala airport	1
+[travel.transport_terminus] to pike place	1
+[travel.transport_terminus] to peschiera del garda	1
+[travel.transport_terminus] to pattaya distance	1
+[travel.transport_terminus] to pattaya bus	1
+[travel.transport_terminus] to pattaya	1
+[travel.transport_terminus] to palace	1
+[travel.transport_terminus] to oxford	1
+[travel.transport_terminus] to orly airport	1
+[travel.transport_terminus] to olympic park	1
+[travel.transport_terminus] to oakland airport	1
+[travel.transport_terminus] to o'hare	1
+[travel.transport_terminus] to nyhavn	1
+[travel.transport_terminus] to norwich airport	1
+[travel.transport_terminus] to north station	1
+[travel.transport_terminus] to newark airport	1
+[travel.transport_terminus] to neuschwanstein castle	1
+[travel.transport_terminus] to navy pier	1
+[travel.transport_terminus] to nanaimo	1
+[travel.transport_terminus] to munich airport	1
+[travel.transport_terminus] to melbourne	1
+[travel.transport_terminus] to manhattan	1
+[travel.transport_terminus] to macau schedule	1
+[travel.transport_terminus] to lund	1
+[travel.transport_terminus] to lucknow	1
+[travel.transport_terminus] to lucerne	1
+[travel.transport_terminus] to lowell	1
+[travel.transport_terminus] to lost world of tambun	1
+[travel.transport_terminus] to london bridge station	1
+[travel.transport_terminus] to london bridge	1
+[travel.transport_terminus] to linkoping	1
+[travel.transport_terminus] to linate airport	1
+[travel.transport_terminus] to limerick	1
+[travel.transport_terminus] to leuven	1
+[travel.transport_terminus] to lax	1
+[travel.transport_terminus] to lausanne	1
+[travel.transport_terminus] to lake garda	1
+[travel.transport_terminus] to klia	1
+[travel.transport_terminus] to kk hospital	1
+[travel.transport_terminus] to kiev	1
+[travel.transport_terminus] to kathmandu	1
+[travel.transport_terminus] to kanchanaburi	1
+[travel.transport_terminus] to jfk	1
+[travel.transport_terminus] to ipswich hospital	1
+[travel.transport_terminus] to hongqiao airport	1
+[travel.transport_terminus] to hong kong	1
+[travel.transport_terminus] to holyhead	1
+[travel.transport_terminus] to high wycombe	1
+[travel.transport_terminus] to helsinki airport	1
+[travel.transport_terminus] to haverhill	1
+[travel.transport_terminus] to hangzhou	1
+[travel.transport_terminus] to haneda airport	1
+[travel.transport_terminus] to hallstatt	1
+[travel.transport_terminus] to hajipur	1
+[travel.transport_terminus] to gothenburg	1
+[travel.transport_terminus] to ghent	1
+[travel.transport_terminus] to gamla stan	1
+[travel.transport_terminus] to galway	1
+[travel.transport_terminus] to frankfurt airport	1
+[travel.transport_terminus] to fort worth	1
+[travel.transport_terminus] to forbidden city	1
+[travel.transport_terminus] to florence	1
+[travel.transport_terminus] to euston underground	1
+[travel.transport_terminus] to euston	1
+[travel.transport_terminus] to etihad stadium	1
+[travel.transport_terminus] to elephant mountain	1
+[travel.transport_terminus] to eiffel tower	1
+[travel.transport_terminus] to duomo	1
+[travel.transport_terminus] to don muang airport	1
+[travel.transport_terminus] to disneyland paris	1
+[travel.transport_terminus] to disney world	1
+[travel.transport_terminus] to delhi flight	1
+[travel.transport_terminus] to delhi	1
+[travel.transport_terminus] to dandenong	1
+[travel.transport_terminus] to como	1
+[travel.transport_terminus] to city centre train	1
+[travel.transport_terminus] to city centre price	1
+[travel.transport_terminus] to city center	1
+[travel.transport_terminus] to circular quay	1
+[travel.transport_terminus] to chofu	1
+[travel.transport_terminus] to chiang mai	1
+[travel.transport_terminus] to charing cross	1
+[travel.transport_terminus] to changi airport	1
+[travel.transport_terminus] to central	1
+[travel.transport_terminus] to cdg airport	1
+[travel.transport_terminus] to cambridge	1
+[travel.transport_terminus] to brussels international airport	1
+[travel.transport_terminus] to brussels	1
+[travel.transport_terminus] to brooklyn bridge	1
+[travel.transport_terminus] to boston	1
+[travel.transport_terminus] to blois	1
+[travel.transport_terminus] to birmingham	1
+[travel.transport_terminus] to bilaspur bus stand	1
+[travel.transport_terminus] to bicester village	1
+[travel.transport_terminus] to berlin hbf	1
+[travel.transport_terminus] to berlin hauptbahnhof	1
+[travel.transport_terminus] to belfast	1
+[travel.transport_terminus] to beijing international airport	1
+[travel.transport_terminus] to beijing airport	1
+[travel.transport_terminus] to basildon	1
+[travel.transport_terminus] to bank station	1
+[travel.transport_terminus] to bangkok	1
+[travel.transport_terminus] to bangalore	1
+[travel.transport_terminus] to badaling schedule	1
+[travel.transport_terminus] to badaling	1
+[travel.transport_terminus] to ayutthaya	1
+[travel.transport_terminus] to arlanda	1
+[travel.transport_terminus] to antwerp	1
+[travel.transport_terminus] to amsterdam airport	1
+[travel.transport_terminus] to amsterdam	1
+[travel.transport_terminus] to amalfi coast	1
+[travel.transport_terminus] to alexanderplatz	1
+[travel.transport_terminus] tn	1
+[travel.transport_terminus] time table	1
+[travel.transport_terminus] time	1
+[travel.transport_terminus] till skavsta	1
+[travel.transport_terminus] tijuana b.c. mexico	1
+[travel.transport_terminus] ticket office	1
+[travel.transport_terminus] things to do	1
+[travel.transport_terminus] thailand	1
+[travel.transport_terminus] thai food	1
+[travel.transport_terminus] tgv	1
+[travel.transport_terminus] terminal m	1
+[travel.transport_terminus] terminal hong kong	1
+[travel.transport_terminus] terminal e	1
+[travel.transport_terminus] terminal a	1
+[travel.transport_terminus] tennis	1
+[travel.transport_terminus] tenants	1
+[travel.transport_terminus] telefono	1
+[travel.transport_terminus] tax free	1
+[travel.transport_terminus] tapo df	1
+[travel.transport_terminus] taiwan	1
+[travel.transport_terminus] tacoma	1
+[travel.transport_terminus] sxb	1
+[travel.transport_terminus] swim team	1
+[travel.transport_terminus] swim and tennis	1
+[travel.transport_terminus] sunnyvale	1
+[travel.transport_terminus] suffolk	1
+[travel.transport_terminus] sud	1
+[travel.transport_terminus] subang selangor malaysia	1
+[travel.transport_terminus] subang selangor	1
+[travel.transport_terminus] subang	1
+[travel.transport_terminus] storage lockers	1
+[travel.transport_terminus] stockholm central	1
+[travel.transport_terminus] stockholm avgångar	1
+[travel.transport_terminus] station to airport	1
+[travel.transport_terminus] station oslo	1
+[travel.transport_terminus] station copenhagen	1
+[travel.transport_terminus] station code	1
+[travel.transport_terminus] state enterprise hotel	1
+[travel.transport_terminus] spotting	1
+[travel.transport_terminus] south carolina	1
+[travel.transport_terminus] south	1
+[travel.transport_terminus] sncf	1
+[travel.transport_terminus] smoking area	1
+[travel.transport_terminus] slide	1
+[travel.transport_terminus] sleeping	1
+[travel.transport_terminus] skigebiet	1
+[travel.transport_terminus] ski	1
+[travel.transport_terminus] six flags	1
+[travel.transport_terminus] silja line	1
+[travel.transport_terminus] shooting	1
+[travel.transport_terminus] shipping schedule	1
+[travel.transport_terminus] share price	1
+[travel.transport_terminus] shake it	1
+[travel.transport_terminus] seattle washington	1
+[travel.transport_terminus] schedule to zhongshan	1
+[travel.transport_terminus] safety	1
+[travel.transport_terminus] safe	1
+[travel.transport_terminus] sacramento	1
+[travel.transport_terminus] sa	1
+[travel.transport_terminus] s2	1
+[travel.transport_terminus] runway extension	1
+[travel.transport_terminus] runway	1
+[travel.transport_terminus] route	1
+[travel.transport_terminus] rodelbahn	1
+[travel.transport_terminus] road conditions	1
+[travel.transport_terminus] rim	1
+[travel.transport_terminus] rides	1
+[travel.transport_terminus] ricciotti	1
+[travel.transport_terminus] restauranger	1
+[travel.transport_terminus] resort	1
+[travel.transport_terminus] reservations	1
+[travel.transport_terminus] rer c	1
+[travel.transport_terminus] renton	1
+[travel.transport_terminus] rental car	1
+[travel.transport_terminus] rent a car	1
+[travel.transport_terminus] reggia	1
+[travel.transport_terminus] refugees	1
+[travel.transport_terminus] redevelopment	1
+[travel.transport_terminus] ramen street	1
+[travel.transport_terminus] railway station	1
+[travel.transport_terminus] radio	1
+[travel.transport_terminus] queensland	1
+[travel.transport_terminus] queens ny 11430 usa	1
+[travel.transport_terminus] qld	1
+[travel.transport_terminus] qc	1
+[travel.transport_terminus] pysäköinti	1
+[travel.transport_terminus] pubs	1
+[travel.transport_terminus] projet	1
+[travel.transport_terminus] prices	1
+[travel.transport_terminus] postal code	1
+[travel.transport_terminus] population	1
+[travel.transport_terminus] pool	1
+[travel.transport_terminus] pleasanton	1
+[travel.transport_terminus] plaza paisos catalans s/n	1
+[travel.transport_terminus] platform map	1
+[travel.transport_terminus] platform j mississauga on	1
+[travel.transport_terminus] platform 9 3/4	1
+[travel.transport_terminus] platform 7	1
+[travel.transport_terminus] platform	1
+[travel.transport_terminus] plans	1
+[travel.transport_terminus] plane crash	1
+[travel.transport_terminus] place louis-armand paris	1
+[travel.transport_terminus] pin code	1
+[travel.transport_terminus] photo	1
+[travel.transport_terminus] philly	1
+[travel.transport_terminus] philadelphia pa phone number	1
+[travel.transport_terminus] pharmacy	1
+[travel.transport_terminus] pension	1
+[travel.transport_terminus] parkway	1
+[travel.transport_terminus] parking rate	1
+[travel.transport_terminus] parking fees	1
+[travel.transport_terminus] parking coupon	1
+[travel.transport_terminus] parking cost	1
+[travel.transport_terminus] parkering	1
+[travel.transport_terminus] parkeren	1
+[travel.transport_terminus] parken	1
+[travel.transport_terminus] park and ride	1
+[travel.transport_terminus] parish council	1
+[travel.transport_terminus] paris map	1
+[travel.transport_terminus] paris holiday inn	1
+[travel.transport_terminus] paris disneyland	1
+[travel.transport_terminus] palace	1
+[travel.transport_terminus] pagina oficial	1
+[travel.transport_terminus] pa	1
+[travel.transport_terminus] p1	1
+[travel.transport_terminus] oyster	1
+[travel.transport_terminus] overnight parking	1
+[travel.transport_terminus] oslo norway	1
+[travel.transport_terminus] oslas	1
+[travel.transport_terminus] osl	1
+[travel.transport_terminus] orange line	1
+[travel.transport_terminus] opening	1
+[travel.transport_terminus] open	1
+[travel.transport_terminus] olympiaranta 1	1
+[travel.transport_terminus] ogden	1
+[travel.transport_terminus] of spain	1
+[travel.transport_terminus] objets trouvés	1
+[travel.transport_terminus] oak park	1
+[travel.transport_terminus] nz	1
+[travel.transport_terminus] ny	1
+[travel.transport_terminus] numero	1
+[travel.transport_terminus] number circular quay	1
+[travel.transport_terminus] nrt	1
+[travel.transport_terminus] notice of project change	1
+[travel.transport_terminus] north terminal	1
+[travel.transport_terminus] norfolk	1
+[travel.transport_terminus] nord	1
+[travel.transport_terminus] night	1
+[travel.transport_terminus] new terminal	1
+[travel.transport_terminus] near nizamuddin	1
+[travel.transport_terminus] near india gate	1
+[travel.transport_terminus] near delhi cantt	1
+[travel.transport_terminus] naval shipyard	1
+[travel.transport_terminus] name	1
+[travel.transport_terminus] music festival 2017	1
+[travel.transport_terminus] murals	1
+[travel.transport_terminus] mtr exit	1
+[travel.transport_terminus] mtr	1
+[travel.transport_terminus] mozambique	1
+[travel.transport_terminus] movies	1
+[travel.transport_terminus] movie	1
+[travel.transport_terminus] mookata	1
+[travel.transport_terminus] monorail	1
+[travel.transport_terminus] mississauga transit	1
+[travel.transport_terminus] mississauga on	1
+[travel.transport_terminus] milpitas	1
+[travel.transport_terminus] milano mi	1
+[travel.transport_terminus] milano italy	1
+[travel.transport_terminus] middletown de	1
+[travel.transport_terminus] michigan	1
+[travel.transport_terminus] mexico	1
+[travel.transport_terminus] metro station	1
+[travel.transport_terminus] metro line	1
+[travel.transport_terminus] metra	1
+[travel.transport_terminus] melbourne australia	1
+[travel.transport_terminus] melbourne	1
+[travel.transport_terminus] mbta	1
+[travel.transport_terminus] master plan	1
+[travel.transport_terminus] massage	1
+[travel.transport_terminus] marta	1
+[travel.transport_terminus] marriott	1
+[travel.transport_terminus] market	1
+[travel.transport_terminus] maine	1
+[travel.transport_terminus] madrid spain	1
+[travel.transport_terminus] lyon france	1
+[travel.transport_terminus] lyon	1
+[travel.transport_terminus] lufthavnen	1
+[travel.transport_terminus] los angeles	1
+[travel.transport_terminus] long distance train station	1
+[travel.transport_terminus] lofts portland or	1
+[travel.transport_terminus] lofts portland	1
+[travel.transport_terminus] lofts	1
+[travel.transport_terminus] lodging	1
+[travel.transport_terminus] locksmiths	1
+[travel.transport_terminus] locker	1
+[travel.transport_terminus] live flight information	1
+[travel.transport_terminus] live departures	1
+[travel.transport_terminus] live cam	1
+[travel.transport_terminus] list	1
+[travel.transport_terminus] limousine bus	1
+[travel.transport_terminus] lefferts blvd jamaica ny 11430	1
+[travel.transport_terminus] layout	1
+[travel.transport_terminus] last train	1
+[travel.transport_terminus] kyiv	1
+[travel.transport_terminus] kumar	1
+[travel.transport_terminus] kuala lumpur	1
+[travel.transport_terminus] klarabergsviadukten 72	1
+[travel.transport_terminus] kitchener on	1
+[travel.transport_terminus] kiev ukraine	1
+[travel.transport_terminus] kebab	1
+[travel.transport_terminus] ka photo	1
+[travel.transport_terminus] job openings	1
+[travel.transport_terminus] japanese restaurant	1
+[travel.transport_terminus] jalisco mexico	1
+[travel.transport_terminus] italy map	1
+[travel.transport_terminus] irish ferries	1
+[travel.transport_terminus] ireland	1
+[travel.transport_terminus] ipswich postcode	1
+[travel.transport_terminus] ipoh perak	1
+[travel.transport_terminus] investor relations	1
+[travel.transport_terminus] investments oy	1
+[travel.transport_terminus] investments	1
+[travel.transport_terminus] intermodal station	1
+[travel.transport_terminus] information	1
+[travel.transport_terminus] in venice	1
+[travel.transport_terminus] in stockholm	1
+[travel.transport_terminus] in rome	1
+[travel.transport_terminus] in danish	1
+[travel.transport_terminus] imax	1
+[travel.transport_terminus] image	1
+[travel.transport_terminus] hungary	1
+[travel.transport_terminus] how to go	1
+[travel.transport_terminus] how to get there	1
+[travel.transport_terminus] horarios	1
+[travel.transport_terminus] horaire	1
+[travel.transport_terminus] hong kong	1
+[travel.transport_terminus] holdings oy	1
+[travel.transport_terminus] holdings	1
+[travel.transport_terminus] hertz	1
+[travel.transport_terminus] helsinki	1
+[travel.transport_terminus] haunted	1
+[travel.transport_terminus] hachiko exit	1
+[travel.transport_terminus] hachiko	1
+[travel.transport_terminus] guoan	1
+[travel.transport_terminus] guadalajara	1
+[travel.transport_terminus] greyhound	1
+[travel.transport_terminus] google	1
+[travel.transport_terminus] golf course	1
+[travel.transport_terminus] golf	1
+[travel.transport_terminus] glasgow postcode	1
+[travel.transport_terminus] glasgow	1
+[travel.transport_terminus] gemeinde	1
+[travel.transport_terminus] gates	1
+[travel.transport_terminus] game	1
+[travel.transport_terminus] gallery	1
+[travel.transport_terminus] french market	1
+[travel.transport_terminus] fountain	1
+[travel.transport_terminus] fort worth	1
+[travel.transport_terminus] forecourt	1
+[travel.transport_terminus] food market	1
+[travel.transport_terminus] food court construction	1
+[travel.transport_terminus] folsom	1
+[travel.transport_terminus] flygbussarna	1
+[travel.transport_terminus] flughafen führung	1
+[travel.transport_terminus] flight school	1
+[travel.transport_terminus] flight schedule	1
+[travel.transport_terminus] fc	1
+[travel.transport_terminus] fbo	1
+[travel.transport_terminus] fastpass	1
+[travel.transport_terminus] facilities	1
+[travel.transport_terminus] facebook	1
+[travel.transport_terminus] eye	1
+[travel.transport_terminus] express	1
+[travel.transport_terminus] expansion	1
+[travel.transport_terminus] exit p3	1
+[travel.transport_terminus] exit p1	1
+[travel.transport_terminus] exit j	1
+[travel.transport_terminus] exit d	1
+[travel.transport_terminus] exit c	1
+[travel.transport_terminus] exit b	1
+[travel.transport_terminus] exit	1
+[travel.transport_terminus] event	1
+[travel.transport_terminus] erl station	1
+[travel.transport_terminus] energy jobs	1
+[travel.transport_terminus] energy bill	1
+[travel.transport_terminus] energy	1
+[travel.transport_terminus] economy parking	1
+[travel.transport_terminus] east exit	1
+[travel.transport_terminus] dubai	1
+[travel.transport_terminus] dry cleaners	1
+[travel.transport_terminus] dongcheng qu china	1
+[travel.transport_terminus] doctors	1
+[travel.transport_terminus] district council	1
+[travel.transport_terminus] distance train station	1
+[travel.transport_terminus] disneyland	1
+[travel.transport_terminus] disaster	1
+[travel.transport_terminus] directory	1
+[travel.transport_terminus] dining	1
+[travel.transport_terminus] dfw airport tx	1
+[travel.transport_terminus] development	1
+[travel.transport_terminus] department of public safety	1
+[travel.transport_terminus] denpasar bali indonesia	1
+[travel.transport_terminus] delays	1
+[travel.transport_terminus] dc	1
+[travel.transport_terminus] customs	1
+[travel.transport_terminus] curacao arrivals	1
+[travel.transport_terminus] cruise ships	1
+[travel.transport_terminus] crowd calendar	1
+[travel.transport_terminus] crossrail	1
+[travel.transport_terminus] croatia	1
+[travel.transport_terminus] crash	1
+[travel.transport_terminus] costa rica	1
+[travel.transport_terminus] corporation	1
+[travel.transport_terminus] copenhagen	1
+[travel.transport_terminus] consigne	1
+[travel.transport_terminus] concepts	1
+[travel.transport_terminus] completion date	1
+[travel.transport_terminus] company limited	1
+[travel.transport_terminus] college	1
+[travel.transport_terminus] closures	1
+[travel.transport_terminus] ciudad de méxico cdmx mexico	1
+[travel.transport_terminus] cinema	1
+[travel.transport_terminus] christmas events	1
+[travel.transport_terminus] chinese	1
+[travel.transport_terminus] chicago illinois	1
+[travel.transport_terminus] chicago il usa	1
+[travel.transport_terminus] chicago il	1
+[travel.transport_terminus] charts	1
+[travel.transport_terminus] charlestown massachusetts	1
+[travel.transport_terminus] central station	1
+[travel.transport_terminus] central paris	1
+[travel.transport_terminus] caselle vr italy	1
+[travel.transport_terminus] carnival	1
+[travel.transport_terminus] careers	1
+[travel.transport_terminus] car parking	1
+[travel.transport_terminus] car park prices	1
+[travel.transport_terminus] campbell	1
+[travel.transport_terminus] camera	1
+[travel.transport_terminus] california	1
+[travel.transport_terminus] cab stand	1
+[travel.transport_terminus] ca	1
+[travel.transport_terminus] business journal	1
+[travel.transport_terminus] bus terminal parking	1
+[travel.transport_terminus] bus stops	1
+[travel.transport_terminus] bus station	1
+[travel.transport_terminus] bus services	1
+[travel.transport_terminus] burma rd osbourn	1
+[travel.transport_terminus] burlington vermont	1
+[travel.transport_terminus] burbank california	1
+[travel.transport_terminus] burbank ca	1
+[travel.transport_terminus] bunny street	1
+[travel.transport_terminus] bullring	1
+[travel.transport_terminus] bts	1
+[travel.transport_terminus] bruxelles belgium	1
+[travel.transport_terminus] breslau on	1
+[travel.transport_terminus] boutiques	1
+[travel.transport_terminus] boston ma	1
+[travel.transport_terminus] border crossing	1
+[travel.transport_terminus] boat ramp	1
+[travel.transport_terminus] board	1
+[travel.transport_terminus] bldg #77 jamaica ny 11430	1
+[travel.transport_terminus] bicycle cafe	1
+[travel.transport_terminus] bc	1
+[travel.transport_terminus] bay c1	1
+[travel.transport_terminus] barakaldo-bilbao	1
+[travel.transport_terminus] bar	1
+[travel.transport_terminus] banu	1
+[travel.transport_terminus] bangalore	1
+[travel.transport_terminus] aéroport	1
+[travel.transport_terminus] austria ski	1
+[travel.transport_terminus] aug. 3 1985	1
+[travel.transport_terminus] attack	1
+[travel.transport_terminus] atlanta georgia	1
+[travel.transport_terminus] atlanta	1
+[travel.transport_terminus] arrivées	1
+[travel.transport_terminus] arrivée	1
+[travel.transport_terminus] arrival times	1
+[travel.transport_terminus] arrest	1
+[travel.transport_terminus] armory	1
+[travel.transport_terminus] argos	1
+[travel.transport_terminus] area	1
+[travel.transport_terminus] architect	1
+[travel.transport_terminus] antigua	1
+[travel.transport_terminus] antananarivo	1
+[travel.transport_terminus] ankunft	1
+[travel.transport_terminus] anguilla	1
+[travel.transport_terminus] angeles	1
+[travel.transport_terminus] and the sap center	1
+[travel.transport_terminus] and scarff	1
+[travel.transport_terminus] amsterdam	1
+[travel.transport_terminus] ams	1
+[travel.transport_terminus] amazon	1
+[travel.transport_terminus] alpine slide	1
+[travel.transport_terminus] alligator	1
+[travel.transport_terminus] allegro	1
+[travel.transport_terminus] alerts	1
+[travel.transport_terminus] alabang	1
+[travel.transport_terminus] airport wiki	1
+[travel.transport_terminus] airport parking	1
+[travel.transport_terminus] airport map	1
+[travel.transport_terminus] airport krs	1
+[travel.transport_terminus] airport code	1
+[travel.transport_terminus] airport car rental	1
+[travel.transport_terminus] airport bgo	1
+[travel.transport_terminus] airport bart station address	1
+[travel.transport_terminus] air quality	1
+[travel.transport_terminus] aiims	1
+[travel.transport_terminus] accident	1
+[travel.transport_terminus] abbotsford bc canada	1
+[travel.transport_terminus] abbotsford bc	1
+[travel.transport_terminus] 610 bay st	1
+[travel.transport_terminus] 6	1
+[travel.transport_terminus] 360	1
+[travel.transport_terminus] 3 letter code	1
+[travel.transport_terminus] 3	1
+[travel.transport_terminus] 2631 maputo mozambique	1
+[travel.transport_terminus] 25a new zealand	1
+[travel.transport_terminus] 2017	1
+[travel.transport_terminus] 2 (klia2)	1
+[travel.transport_terminus] 1	1
+[travel.transport_terminus] / luxembourg (lux/ellx)	1
+[travel.transport_terminus] - ytz	1
+[travel.transport_terminus] - via giolitti 34	1
+[travel.transport_terminus] - nsb	1
+[travel.transport_terminus] (zyr)	1
+[travel.transport_terminus] (vrn)	1
+[travel.transport_terminus] (trf)	1
+[travel.transport_terminus] (thonburi train station)	1
+[travel.transport_terminus] (tapo)	1
+[travel.transport_terminus] (szb)	1
+[travel.transport_terminus] (sha)	1
+[travel.transport_terminus] (pvg)	1
+[travel.transport_terminus] (mfm)	1
+[travel.transport_terminus] (lax)	1
+[travel.transport_terminus] (jfk) queens ny 11430	1
+[travel.transport_terminus] (jfk)	1
+[travel.transport_terminus] (iev)	1
+[travel.transport_terminus] (gva)	1
+[travel.transport_terminus] (dca) arlington va 22202	1
+[travel.transport_terminus] (dca)	1
+[travel.transport_terminus] (bud)	1
+[travel.transport_terminus] (aus)	1

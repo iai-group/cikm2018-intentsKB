@@ -1,0 +1,802 @@
+[location.hud_foreclosure_area]	1005
+[location.hud_foreclosure_area] weather	876
+[location.hud_foreclosure_area] hotels	823
+[location.hud_foreclosure_area] map	815
+[location.hud_foreclosure_area] zip code	777
+[location.hud_foreclosure_area] population	424
+[location.hud_foreclosure_area] news	397
+[location.hud_foreclosure_area] airport	382
+[location.hud_foreclosure_area] restaurants	325
+[location.hud_foreclosure_area] real estate	323
+[location.hud_foreclosure_area] county	279
+[location.hud_foreclosure_area] apartments	244
+[location.hud_foreclosure_area] craigslist	187
+[location.hud_foreclosure_area] directions	146
+[location.hud_foreclosure_area] jobs	113
+[location.hud_foreclosure_area] police department	112
+[location.hud_foreclosure_area] time zone	106
+[location.hud_foreclosure_area] homes for sale	98
+[location.hud_foreclosure_area] things to do	80
+[location.hud_foreclosure_area] court records	76
+[location.hud_foreclosure_area] united states	68
+[location.hud_foreclosure_area] time	54
+[location.hud_foreclosure_area] beach	51
+[location.hud_foreclosure_area] property search	48
+[location.hud_foreclosure_area] obituaries	41
+[location.hud_foreclosure_area] hospital	37
+[location.hud_foreclosure_area] area code	36
+[location.hud_foreclosure_area] zoo	30
+[location.hud_foreclosure_area] elevation	28
+[location.hud_foreclosure_area] tax assessor	27
+[location.hud_foreclosure_area] jail	27
+[location.hud_foreclosure_area] crime rate	27
+[location.hud_foreclosure_area] sheriff	26
+[location.hud_foreclosure_area] property records	25
+[location.hud_foreclosure_area] dmv	25
+[location.hud_foreclosure_area] assessor	25
+[location.hud_foreclosure_area] zip codes	24
+[location.hud_foreclosure_area] rentals	23
+[location.hud_foreclosure_area] crime	23
+[location.hud_foreclosure_area] camping	23
+[location.hud_foreclosure_area] newspaper	22
+[location.hud_foreclosure_area] clerk of court	22
+[location.hud_foreclosure_area] resorts	21
+[location.hud_foreclosure_area] public records	21
+[location.hud_foreclosure_area] beaches	21
+[location.hud_foreclosure_area] mall	19
+[location.hud_foreclosure_area] gis	19
+[location.hud_foreclosure_area] genealogy	17
+[location.hud_foreclosure_area] events	17
+[location.hud_foreclosure_area] walmart	16
+[location.hud_foreclosure_area] history	16
+[location.hud_foreclosure_area] weather radar	15
+[location.hud_foreclosure_area] temple	15
+[location.hud_foreclosure_area] courthouse	15
+[location.hud_foreclosure_area] college	15
+[location.hud_foreclosure_area] attractions	15
+[location.hud_foreclosure_area] to san francisco	14
+[location.hud_foreclosure_area] tax collector	14
+[location.hud_foreclosure_area] property tax	13
+[location.hud_foreclosure_area] movie theater	13
+[location.hud_foreclosure_area] lodging	13
+[location.hud_foreclosure_area] cost of living	13
+[location.hud_foreclosure_area] schools	12
+[location.hud_foreclosure_area] usa	11
+[location.hud_foreclosure_area] university	11
+[location.hud_foreclosure_area] superior court	11
+[location.hud_foreclosure_area] recorder of deeds	11
+[location.hud_foreclosure_area] recorder	11
+[location.hud_foreclosure_area] housing	11
+[location.hud_foreclosure_area] casino	11
+[location.hud_foreclosure_area] to boston	10
+[location.hud_foreclosure_area] prison	10
+[location.hud_foreclosure_area] post office	10
+[location.hud_foreclosure_area] minimum wage	10
+[location.hud_foreclosure_area] clerk of courts	10
+[location.hud_foreclosure_area] cities by area	10
+[location.hud_foreclosure_area] casinos	10
+[location.hud_foreclosure_area] train station	9
+[location.hud_foreclosure_area] to chicago	9
+[location.hud_foreclosure_area] song	9
+[location.hud_foreclosure_area] property appraiser	9
+[location.hud_foreclosure_area] police	9
+[location.hud_foreclosure_area] library	9
+[location.hud_foreclosure_area] hotel	9
+[location.hud_foreclosure_area] fishing	9
+[location.hud_foreclosure_area] court	9
+[location.hud_foreclosure_area] cities by population	9
+[location.hud_foreclosure_area] address	9
+[location.hud_foreclosure_area] wineries	8
+[location.hud_foreclosure_area] to washington dc	8
+[location.hud_foreclosure_area] to seattle	8
+[location.hud_foreclosure_area] school calendar	8
+[location.hud_foreclosure_area] to los angeles	7
+[location.hud_foreclosure_area] temperature	7
+[location.hud_foreclosure_area] summer	7
+[location.hud_foreclosure_area] shooting	7
+[location.hud_foreclosure_area] school district	7
+[location.hud_foreclosure_area] marriage records	7
+[location.hud_foreclosure_area] homes	7
+[location.hud_foreclosure_area] high school	7
+[location.hud_foreclosure_area] fire	7
+[location.hud_foreclosure_area] ferry	7
+[location.hud_foreclosure_area] cabins	7
+[location.hud_foreclosure_area] bed and breakfast	7
+[location.hud_foreclosure_area] weather forecast	6
+[location.hud_foreclosure_area] tours	6
+[location.hud_foreclosure_area] mission	6
+[location.hud_foreclosure_area] inmate search	6
+[location.hud_foreclosure_area] city hall	6
+[location.hud_foreclosure_area] cities	6
+[location.hud_foreclosure_area] circuit court	6
+[location.hud_foreclosure_area] boardwalk	6
+[location.hud_foreclosure_area] arrest records	6
+[location.hud_foreclosure_area] aquarium	6
+[location.hud_foreclosure_area] airport code	6
+[location.hud_foreclosure_area] water park	5
+[location.hud_foreclosure_area] to new york city	5
+[location.hud_foreclosure_area] state	5
+[location.hud_foreclosure_area] shopping	5
+[location.hud_foreclosure_area] sales tax rate	5
+[location.hud_foreclosure_area] museum	5
+[location.hud_foreclosure_area] movie	5
+[location.hud_foreclosure_area] marriage license	5
+[location.hud_foreclosure_area] houses	5
+[location.hud_foreclosure_area] fireworks	5
+[location.hud_foreclosure_area] fair	5
+[location.hud_foreclosure_area] eclipse	5
+[location.hud_foreclosure_area] vital records	4
+[location.hud_foreclosure_area] tornado	4
+[location.hud_foreclosure_area] to nyc	4
+[location.hud_foreclosure_area] to miami	4
+[location.hud_foreclosure_area] to denver	4
+[location.hud_foreclosure_area] times	4
+[location.hud_foreclosure_area] sports club	4
+[location.hud_foreclosure_area] rodeo	4
+[location.hud_foreclosure_area] public schools	4
+[location.hud_foreclosure_area] pictures	4
+[location.hud_foreclosure_area] outlets	4
+[location.hud_foreclosure_area] movies	4
+[location.hud_foreclosure_area] marriott	4
+[location.hud_foreclosure_area] location	4
+[location.hud_foreclosure_area] land for sale	4
+[location.hud_foreclosure_area] flag	4
+[location.hud_foreclosure_area] disney	4
+[location.hud_foreclosure_area] death records	4
+[location.hud_foreclosure_area] concerts	4
+[location.hud_foreclosure_area] bridge	4
+[location.hud_foreclosure_area] birth certificate	4
+[location.hud_foreclosure_area] area	4
+[location.hud_foreclosure_area] webcam	3
+[location.hud_foreclosure_area] ufo	3
+[location.hud_foreclosure_area] to manhattan	3
+[location.hud_foreclosure_area] to dallas texas	3
+[location.hud_foreclosure_area] to charlotte north carolina	3
+[location.hud_foreclosure_area] register of deeds	3
+[location.hud_foreclosure_area] recycling	3
+[location.hud_foreclosure_area] px	3
+[location.hud_foreclosure_area] property tax records	3
+[location.hud_foreclosure_area] probate court	3
+[location.hud_foreclosure_area] pizza	3
+[location.hud_foreclosure_area] outlet mall	3
+[location.hud_foreclosure_area] mwr	3
+[location.hud_foreclosure_area] mayor	3
+[location.hud_foreclosure_area] lyrics	3
+[location.hud_foreclosure_area] jail roster	3
+[location.hud_foreclosure_area] haunted	3
+[location.hud_foreclosure_area] gangs	3
+[location.hud_foreclosure_area] flooding	3
+[location.hud_foreclosure_area] family fitness	3
+[location.hud_foreclosure_area] court records search	3
+[location.hud_foreclosure_area] condos	3
+[location.hud_foreclosure_area] amish	3
+[location.hud_foreclosure_area] airbnb	3
+[location.hud_foreclosure_area] air show	3
+[location.hud_foreclosure_area] visitor center	2
+[location.hud_foreclosure_area] us	2
+[location.hud_foreclosure_area] train	2
+[location.hud_foreclosure_area] to san diego	2
+[location.hud_foreclosure_area] to las vegas	2
+[location.hud_foreclosure_area] to atlanta georgia	2
+[location.hud_foreclosure_area] sun	2
+[location.hud_foreclosure_area] state university	2
+[location.hud_foreclosure_area] shooter	2
+[location.hud_foreclosure_area] sales tax	2
+[location.hud_foreclosure_area] river	2
+[location.hud_foreclosure_area] reviews	2
+[location.hud_foreclosure_area] resort	2
+[location.hud_foreclosure_area] registry of deeds	2
+[location.hud_foreclosure_area] radar	2
+[location.hud_foreclosure_area] race track	2
+[location.hud_foreclosure_area] property tax search	2
+[location.hud_foreclosure_area] probate records	2
+[location.hud_foreclosure_area] points of interest	2
+[location.hud_foreclosure_area] personal property tax	2
+[location.hud_foreclosure_area] obits	2
+[location.hud_foreclosure_area] ny	2
+[location.hud_foreclosure_area] new york	2
+[location.hud_foreclosure_area] netflix	2
+[location.hud_foreclosure_area] mugshots	2
+[location.hud_foreclosure_area] mcdonald's	2
+[location.hud_foreclosure_area] marine base	2
+[location.hud_foreclosure_area] mansions	2
+[location.hud_foreclosure_area] koa	2
+[location.hud_foreclosure_area] indians	2
+[location.hud_foreclosure_area] images	2
+[location.hud_foreclosure_area] hot springs	2
+[location.hud_foreclosure_area] halloween	2
+[location.hud_foreclosure_area] gym	2
+[location.hud_foreclosure_area] google	2
+[location.hud_foreclosure_area] golf	2
+[location.hud_foreclosure_area] furniture	2
+[location.hud_foreclosure_area] flood	2
+[location.hud_foreclosure_area] flights	2
+[location.hud_foreclosure_area] ferry schedule	2
+[location.hud_foreclosure_area] earthquake	2
+[location.hud_foreclosure_area] eagles	2
+[location.hud_foreclosure_area] dodgers	2
+[location.hud_foreclosure_area] documentary	2
+[location.hud_foreclosure_area] district attorney	2
+[location.hud_foreclosure_area] demographics	2
+[location.hud_foreclosure_area] cruises	2
+[location.hud_foreclosure_area] county clerk	2
+[location.hud_foreclosure_area] convention center	2
+[location.hud_foreclosure_area] community college	2
+[location.hud_foreclosure_area] clinic	2
+[location.hud_foreclosure_area] climate	2
+[location.hud_foreclosure_area] civil war	2
+[location.hud_foreclosure_area] city	2
+[location.hud_foreclosure_area] cemetery records	2
+[location.hud_foreclosure_area] car show	2
+[location.hud_foreclosure_area] cabin rentals	2
+[location.hud_foreclosure_area] ca	2
+[location.hud_foreclosure_area] birth records	2
+[location.hud_foreclosure_area] bar	2
+[location.hud_foreclosure_area] bah	2
+[location.hud_foreclosure_area] auditor	2
+[location.hud_foreclosure_area] art museum	2
+[location.hud_foreclosure_area] arrests	2
+[location.hud_foreclosure_area] appraisal district	2
+[location.hud_foreclosure_area] apartments for rent	2
+[location.hud_foreclosure_area] 2017	2
+walmart [location.hud_foreclosure_area]	1
+town of [location.hud_foreclosure_area] tax assessor	1
+town of [location.hud_foreclosure_area] building department	1
+town of [location.hud_foreclosure_area] assessor	1
+homewood suites [location.hud_foreclosure_area]	1
+home depot [location.hud_foreclosure_area]	1
+fox theater [location.hud_foreclosure_area]	1
+city of [location.hud_foreclosure_area] building department	1
+best buy [location.hud_foreclosure_area]	1
+[location.hud_foreclosure_area]town weather	1
+[location.hud_foreclosure_area]town	1
+[location.hud_foreclosure_area]land	1
+[location.hud_foreclosure_area] zip	1
+[location.hud_foreclosure_area] youtube	1
+[location.hud_foreclosure_area] yankees	1
+[location.hud_foreclosure_area] wwe	1
+[location.hud_foreclosure_area] witch	1
+[location.hud_foreclosure_area] wine tours	1
+[location.hud_foreclosure_area] wine tasting	1
+[location.hud_foreclosure_area] wine	1
+[location.hud_foreclosure_area] windows xp	1
+[location.hud_foreclosure_area] wills	1
+[location.hud_foreclosure_area] wikipedia	1
+[location.hud_foreclosure_area] wiki	1
+[location.hud_foreclosure_area] weed	1
+[location.hud_foreclosure_area] wedding venues	1
+[location.hud_foreclosure_area] weather in june	1
+[location.hud_foreclosure_area] weather in july	1
+[location.hud_foreclosure_area] waterfall	1
+[location.hud_foreclosure_area] water update	1
+[location.hud_foreclosure_area] water tower	1
+[location.hud_foreclosure_area] water restrictions	1
+[location.hud_foreclosure_area] water festival	1
+[location.hud_foreclosure_area] water	1
+[location.hud_foreclosure_area] washington	1
+[location.hud_foreclosure_area] wanderers	1
+[location.hud_foreclosure_area] w hotel	1
+[location.hud_foreclosure_area] vrbo	1
+[location.hud_foreclosure_area] vital statistics	1
+[location.hud_foreclosure_area] villas	1
+[location.hud_foreclosure_area] vice	1
+[location.hud_foreclosure_area] venetian pool	1
+[location.hud_foreclosure_area] vacation rentals	1
+[location.hud_foreclosure_area] va	1
+[location.hud_foreclosure_area] ups	1
+[location.hud_foreclosure_area] university hospital	1
+[location.hud_foreclosure_area] united	1
+[location.hud_foreclosure_area] union	1
+[location.hud_foreclosure_area] ufo crash	1
+[location.hud_foreclosure_area] twilight	1
+[location.hud_foreclosure_area] tv show	1
+[location.hud_foreclosure_area] tunnel	1
+[location.hud_foreclosure_area] tulips	1
+[location.hud_foreclosure_area] tubing	1
+[location.hud_foreclosure_area] truck show	1
+[location.hud_foreclosure_area] trees	1
+[location.hud_foreclosure_area] trailer	1
+[location.hud_foreclosure_area] trail	1
+[location.hud_foreclosure_area] tragedy	1
+[location.hud_foreclosure_area] towns	1
+[location.hud_foreclosure_area] town hall	1
+[location.hud_foreclosure_area] town code	1
+[location.hud_foreclosure_area] tourism	1
+[location.hud_foreclosure_area] topix	1
+[location.hud_foreclosure_area] tomahawk steak	1
+[location.hud_foreclosure_area] to yellowstone	1
+[location.hud_foreclosure_area] to virginia beach	1
+[location.hud_foreclosure_area] to times square	1
+[location.hud_foreclosure_area] to san antonio texas	1
+[location.hud_foreclosure_area] to philadelphia	1
+[location.hud_foreclosure_area] to nashville	1
+[location.hud_foreclosure_area] to mobile alabama	1
+[location.hud_foreclosure_area] to miami florida	1
+[location.hud_foreclosure_area] to las vegas nevada	1
+[location.hud_foreclosure_area] to grand canyon	1
+[location.hud_foreclosure_area] to fairbanks alaska	1
+[location.hud_foreclosure_area] to el paso texas	1
+[location.hud_foreclosure_area] to dc	1
+[location.hud_foreclosure_area] to boise idaho	1
+[location.hud_foreclosure_area] to barstow california	1
+[location.hud_foreclosure_area] to bakersfield california	1
+[location.hud_foreclosure_area] to atlanta	1
+[location.hud_foreclosure_area] to anchorage alaska	1
+[location.hud_foreclosure_area] to albuquerque new mexico	1
+[location.hud_foreclosure_area] to albuquerque	1
+[location.hud_foreclosure_area] tire and auto	1
+[location.hud_foreclosure_area] time now	1
+[location.hud_foreclosure_area] tigers schedule	1
+[location.hud_foreclosure_area] tigers	1
+[location.hud_foreclosure_area] tides	1
+[location.hud_foreclosure_area] tide chart	1
+[location.hud_foreclosure_area] thunder roster	1
+[location.hud_foreclosure_area] theater	1
+[location.hud_foreclosure_area] the office	1
+[location.hud_foreclosure_area] texans	1
+[location.hud_foreclosure_area] tesla	1
+[location.hud_foreclosure_area] terrier	1
+[location.hud_foreclosure_area] tech	1
+[location.hud_foreclosure_area] team 10 house	1
+[location.hud_foreclosure_area] taylor swift	1
+[location.hud_foreclosure_area] tax records	1
+[location.hud_foreclosure_area] tavern	1
+[location.hud_foreclosure_area] tale cast	1
+[location.hud_foreclosure_area] tale	1
+[location.hud_foreclosure_area] tag office	1
+[location.hud_foreclosure_area] swallows	1
+[location.hud_foreclosure_area] surrogate's office	1
+[location.hud_foreclosure_area] surrogate court	1
+[location.hud_foreclosure_area] sunset	1
+[location.hud_foreclosure_area] sunrise	1
+[location.hud_foreclosure_area] sun meme	1
+[location.hud_foreclosure_area] subway map	1
+[location.hud_foreclosure_area] strip map	1
+[location.hud_foreclosure_area] strip	1
+[location.hud_foreclosure_area] street lights	1
+[location.hud_foreclosure_area] stoning	1
+[location.hud_foreclosure_area] steamer	1
+[location.hud_foreclosure_area] std	1
+[location.hud_foreclosure_area] state park	1
+[location.hud_foreclosure_area] stars	1
+[location.hud_foreclosure_area] spurs	1
+[location.hud_foreclosure_area] spas	1
+[location.hud_foreclosure_area] spacex	1
+[location.hud_foreclosure_area] soundtrack	1
+[location.hud_foreclosure_area] sounders	1
+[location.hud_foreclosure_area] solar eclipse	1
+[location.hud_foreclosure_area] ski resort	1
+[location.hud_foreclosure_area] six flags	1
+[location.hud_foreclosure_area] sinkhole	1
+[location.hud_foreclosure_area] siege	1
+[location.hud_foreclosure_area] side	1
+[location.hud_foreclosure_area] shows	1
+[location.hud_foreclosure_area] show	1
+[location.hud_foreclosure_area] sharks	1
+[location.hud_foreclosure_area] shark	1
+[location.hud_foreclosure_area] sharia law snopes	1
+[location.hud_foreclosure_area] sharia law	1
+[location.hud_foreclosure_area] shakespeare	1
+[location.hud_foreclosure_area] secretary of state facility	1
+[location.hud_foreclosure_area] school	1
+[location.hud_foreclosure_area] scare	1
+[location.hud_foreclosure_area] sanitation	1
+[location.hud_foreclosure_area] saints	1
+[location.hud_foreclosure_area] rv parks	1
+[location.hud_foreclosure_area] rose bush	1
+[location.hud_foreclosure_area] rockets roster	1
+[location.hud_foreclosure_area] rockets	1
+[location.hud_foreclosure_area] riverwalk	1
+[location.hud_foreclosure_area] rivers	1
+[location.hud_foreclosure_area] ritz carlton	1
+[location.hud_foreclosure_area] riots	1
+[location.hud_foreclosure_area] refugees	1
+[location.hud_foreclosure_area] reds tickets	1
+[location.hud_foreclosure_area] reds schedule	1
+[location.hud_foreclosure_area] reds	1
+[location.hud_foreclosure_area] reddit	1
+[location.hud_foreclosure_area] red sox	1
+[location.hud_foreclosure_area] recycling schedule	1
+[location.hud_foreclosure_area] recorder's office	1
+[location.hud_foreclosure_area] recipe	1
+[location.hud_foreclosure_area] real estate for sale	1
+[location.hud_foreclosure_area] real estate assessments	1
+[location.hud_foreclosure_area] ravens	1
+[location.hud_foreclosure_area] ranking	1
+[location.hud_foreclosure_area] range 14	1
+[location.hud_foreclosure_area] rams	1
+[location.hud_foreclosure_area] raceway	1
+[location.hud_foreclosure_area] pva	1
+[location.hud_foreclosure_area] public library	1
+[location.hud_foreclosure_area] public housing	1
+[location.hud_foreclosure_area] prothonotary	1
+[location.hud_foreclosure_area] protest	1
+[location.hud_foreclosure_area] property tax bills	1
+[location.hud_foreclosure_area] pronunciation	1
+[location.hud_foreclosure_area] project	1
+[location.hud_foreclosure_area] probate	1
+[location.hud_foreclosure_area] prada	1
+[location.hud_foreclosure_area] power outage	1
+[location.hud_foreclosure_area] poverty	1
+[location.hud_foreclosure_area] potterfest	1
+[location.hud_foreclosure_area] post gazette	1
+[location.hud_foreclosure_area] post dispatch	1
+[location.hud_foreclosure_area] post	1
+[location.hud_foreclosure_area] port	1
+[location.hud_foreclosure_area] population 2017	1
+[location.hud_foreclosure_area] poppy	1
+[location.hud_foreclosure_area] pool hours	1
+[location.hud_foreclosure_area] police brutality	1
+[location.hud_foreclosure_area] plat map	1
+[location.hud_foreclosure_area] plantations	1
+[location.hud_foreclosure_area] plane crashes	1
+[location.hud_foreclosure_area] pizza kitchen	1
+[location.hud_foreclosure_area] pixar	1
+[location.hud_foreclosure_area] pistons	1
+[location.hud_foreclosure_area] pirates tickets	1
+[location.hud_foreclosure_area] pirates schedule	1
+[location.hud_foreclosure_area] pirates	1
+[location.hud_foreclosure_area] pipeline map	1
+[location.hud_foreclosure_area] pines	1
+[location.hud_foreclosure_area] pier	1
+[location.hud_foreclosure_area] phillies	1
+[location.hud_foreclosure_area] penguins score	1
+[location.hud_foreclosure_area] penguins	1
+[location.hud_foreclosure_area] peach festival	1
+[location.hud_foreclosure_area] peach	1
+[location.hud_foreclosure_area] pass	1
+[location.hud_foreclosure_area] parish	1
+[location.hud_foreclosure_area] parcel viewer	1
+[location.hud_foreclosure_area] pageant	1
+[location.hud_foreclosure_area] padres	1
+[location.hud_foreclosure_area] outbreak	1
+[location.hud_foreclosure_area] orioles tickets	1
+[location.hud_foreclosure_area] orioles schedule	1
+[location.hud_foreclosure_area] orioles	1
+[location.hud_foreclosure_area] oregon trail	1
+[location.hud_foreclosure_area] oprah	1
+[location.hud_foreclosure_area] on may 31 2014	1
+[location.hud_foreclosure_area] oktoberfest	1
+[location.hud_foreclosure_area] oil production	1
+[location.hud_foreclosure_area] oil jobs	1
+[location.hud_foreclosure_area] ohio	1
+[location.hud_foreclosure_area] of the stone age tour	1
+[location.hud_foreclosure_area] of the stone age	1
+[location.hud_foreclosure_area] oceanfront hotels	1
+[location.hud_foreclosure_area] obituary	1
+[location.hud_foreclosure_area] nuggets	1
+[location.hud_foreclosure_area] norovirus	1
+[location.hud_foreclosure_area] no go zone	1
+[location.hud_foreclosure_area] nj	1
+[location.hud_foreclosure_area] nike	1
+[location.hud_foreclosure_area] nevada	1
+[location.hud_foreclosure_area] nets	1
+[location.hud_foreclosure_area] neighborhoods	1
+[location.hud_foreclosure_area] nc	1
+[location.hud_foreclosure_area] nazi	1
+[location.hud_foreclosure_area] naval base	1
+[location.hud_foreclosure_area] national park	1
+[location.hud_foreclosure_area] muslim sign	1
+[location.hud_foreclosure_area] music	1
+[location.hud_foreclosure_area] museums	1
+[location.hud_foreclosure_area] murders	1
+[location.hud_foreclosure_area] morning news	1
+[location.hud_foreclosure_area] morgue	1
+[location.hud_foreclosure_area] monument	1
+[location.hud_foreclosure_area] minimum wage 2017	1
+[location.hud_foreclosure_area] mine tour	1
+[location.hud_foreclosure_area] mine	1
+[location.hud_foreclosure_area] military bases	1
+[location.hud_foreclosure_area] metro map	1
+[location.hud_foreclosure_area] metro area	1
+[location.hud_foreclosure_area] metro	1
+[location.hud_foreclosure_area] metlife stadium	1
+[location.hud_foreclosure_area] medical school	1
+[location.hud_foreclosure_area] median income	1
+[location.hud_foreclosure_area] meat pies	1
+[location.hud_foreclosure_area] marlins	1
+[location.hud_foreclosure_area] market	1
+[location.hud_foreclosure_area] mariners schedule	1
+[location.hud_foreclosure_area] mariners	1
+[location.hud_foreclosure_area] march	1
+[location.hud_foreclosure_area] malamutes	1
+[location.hud_foreclosure_area] main gate	1
+[location.hud_foreclosure_area] magazine	1
+[location.hud_foreclosure_area] lost town	1
+[location.hud_foreclosure_area] los angeles	1
+[location.hud_foreclosure_area] london bridge	1
+[location.hud_foreclosure_area] logic	1
+[location.hud_foreclosure_area] lodge	1
+[location.hud_foreclosure_area] locks	1
+[location.hud_foreclosure_area] lions	1
+[location.hud_foreclosure_area] lights	1
+[location.hud_foreclosure_area] launch schedule	1
+[location.hud_foreclosure_area] larry ellison	1
+[location.hud_foreclosure_area] landslide	1
+[location.hud_foreclosure_area] landfill	1
+[location.hud_foreclosure_area] lakers	1
+[location.hud_foreclosure_area] lake berryessa	1
+[location.hud_foreclosure_area] lake	1
+[location.hud_foreclosure_area] labyrinth	1
+[location.hud_foreclosure_area] kris jenner house	1
+[location.hud_foreclosure_area] kilkenny	1
+[location.hud_foreclosure_area] justified	1
+[location.hud_foreclosure_area] journal sentinel	1
+[location.hud_foreclosure_area] jail tracker	1
+[location.hud_foreclosure_area] jail inmate search	1
+[location.hud_foreclosure_area] itt	1
+[location.hud_foreclosure_area] isis	1
+[location.hud_foreclosure_area] is the location of the	1
+[location.hud_foreclosure_area] is burning	1
+[location.hud_foreclosure_area] is an example of	1
+[location.hud_foreclosure_area] inquirer	1
+[location.hud_foreclosure_area] inmate roster	1
+[location.hud_foreclosure_area] indians schedule	1
+[location.hud_foreclosure_area] in new mexico	1
+[location.hud_foreclosure_area] imdb	1
+[location.hud_foreclosure_area] ibm	1
+[location.hud_foreclosure_area] hum	1
+[location.hud_foreclosure_area] houses for sale	1
+[location.hud_foreclosure_area] house	1
+[location.hud_foreclosure_area] historical society	1
+[location.hud_foreclosure_area] hippie commune	1
+[location.hud_foreclosure_area] hiking	1
+[location.hud_foreclosure_area] highway patrol	1
+[location.hud_foreclosure_area] high school of science	1
+[location.hud_foreclosure_area] herald	1
+[location.hud_foreclosure_area] heat	1
+[location.hud_foreclosure_area] health department	1
+[location.hud_foreclosure_area] hawks	1
+[location.hud_foreclosure_area] hardware	1
+[location.hud_foreclosure_area] hall of records	1
+[location.hud_foreclosure_area] hall of fame	1
+[location.hud_foreclosure_area] gun law	1
+[location.hud_foreclosure_area] gta	1
+[location.hud_foreclosure_area] groundhog day	1
+[location.hud_foreclosure_area] goonies	1
+[location.hud_foreclosure_area] google maps	1
+[location.hud_foreclosure_area] globe	1
+[location.hud_foreclosure_area] glacier	1
+[location.hud_foreclosure_area] giants	1
+[location.hud_foreclosure_area] ghetto	1
+[location.hud_foreclosure_area] gay	1
+[location.hud_foreclosure_area] furniture stores	1
+[location.hud_foreclosure_area] furniture market	1
+[location.hud_foreclosure_area] free press	1
+[location.hud_foreclosure_area] forecast	1
+[location.hud_foreclosure_area] for sale	1
+[location.hud_foreclosure_area] football stadium	1
+[location.hud_foreclosure_area] football	1
+[location.hud_foreclosure_area] flyers	1
+[location.hud_foreclosure_area] flds	1
+[location.hud_foreclosure_area] flash	1
+[location.hud_foreclosure_area] flamenco beach	1
+[location.hud_foreclosure_area] fishing report	1
+[location.hud_foreclosure_area] fishing charters	1
+[location.hud_foreclosure_area] fish grill	1
+[location.hud_foreclosure_area] fire still burning	1
+[location.hud_foreclosure_area] federal prison	1
+[location.hud_foreclosure_area] federal credit union	1
+[location.hud_foreclosure_area] fc	1
+[location.hud_foreclosure_area] fbi	1
+[location.hud_foreclosure_area] farmers market	1
+[location.hud_foreclosure_area] falcons	1
+[location.hud_foreclosure_area] fairgrounds	1
+[location.hud_foreclosure_area] fair 2017	1
+[location.hud_foreclosure_area] factory	1
+[location.hud_foreclosure_area] facebook	1
+[location.hud_foreclosure_area] explosion	1
+[location.hud_foreclosure_area] exchange	1
+[location.hud_foreclosure_area] estate	1
+[location.hud_foreclosure_area] epidemic	1
+[location.hud_foreclosure_area] enquirer	1
+[location.hud_foreclosure_area] earthquakes	1
+[location.hud_foreclosure_area] drive in	1
+[location.hud_foreclosure_area] drink	1
+[location.hud_foreclosure_area] dreamin song	1
+[location.hud_foreclosure_area] drake	1
+[location.hud_foreclosure_area] dolphins	1
+[location.hud_foreclosure_area] district new york	1
+[location.hud_foreclosure_area] disneyland	1
+[location.hud_foreclosure_area] disaster	1
+[location.hud_foreclosure_area] diet	1
+[location.hud_foreclosure_area] detention center	1
+[location.hud_foreclosure_area] desert region	1
+[location.hud_foreclosure_area] department of education	1
+[location.hud_foreclosure_area] department new york	1
+[location.hud_foreclosure_area] defenders	1
+[location.hud_foreclosure_area] deed records	1
+[location.hud_foreclosure_area] decker	1
+[location.hud_foreclosure_area] dade college	1
+[location.hud_foreclosure_area] cult	1
+[location.hud_foreclosure_area] cruise port	1
+[location.hud_foreclosure_area] cruise	1
+[location.hud_foreclosure_area] cross country	1
+[location.hud_foreclosure_area] criminal court records	1
+[location.hud_foreclosure_area] crazy ex girlfriend	1
+[location.hud_foreclosure_area] crater	1
+[location.hud_foreclosure_area] cowboys tickets	1
+[location.hud_foreclosure_area] cowboys	1
+[location.hud_foreclosure_area] court of common pleas	1
+[location.hud_foreclosure_area] county library	1
+[location.hud_foreclosure_area] county fair	1
+[location.hud_foreclosure_area] corruption	1
+[location.hud_foreclosure_area] corner	1
+[location.hud_foreclosure_area] cookie company	1
+[location.hud_foreclosure_area] condos for sale	1
+[location.hud_foreclosure_area] compound	1
+[location.hud_foreclosure_area] commissary	1
+[location.hud_foreclosure_area] comic con	1
+[location.hud_foreclosure_area] colts	1
+[location.hud_foreclosure_area] colorado	1
+[location.hud_foreclosure_area] colleges	1
+[location.hud_foreclosure_area] collector	1
+[location.hud_foreclosure_area] cocktail	1
+[location.hud_foreclosure_area] coast guard	1
+[location.hud_foreclosure_area] club	1
+[location.hud_foreclosure_area] climbing	1
+[location.hud_foreclosure_area] cliff walk	1
+[location.hud_foreclosure_area] clerk	1
+[location.hud_foreclosure_area] civil rights	1
+[location.hud_foreclosure_area] city train	1
+[location.hud_foreclosure_area] city restaurant	1
+[location.hud_foreclosure_area] city data	1
+[location.hud_foreclosure_area] city council	1
+[location.hud_foreclosure_area] city clerk	1
+[location.hud_foreclosure_area] circuit court clerk	1
+[location.hud_foreclosure_area] church	1
+[location.hud_foreclosure_area] chronicle	1
+[location.hud_foreclosure_area] christmas	1
+[location.hud_foreclosure_area] chat	1
+[location.hud_foreclosure_area] chancery clerk	1
+[location.hud_foreclosure_area] cemetery	1
+[location.hud_foreclosure_area] celtics	1
+[location.hud_foreclosure_area] celebrity homes	1
+[location.hud_foreclosure_area] celebrities	1
+[location.hud_foreclosure_area] cavs	1
+[location.hud_foreclosure_area] cave	1
+[location.hud_foreclosure_area] carving	1
+[location.hud_foreclosure_area] cardinals	1
+[location.hud_foreclosure_area] cape fear serpentarium	1
+[location.hud_foreclosure_area] campground	1
+[location.hud_foreclosure_area] cafe	1
+[location.hud_foreclosure_area] cad	1
+[location.hud_foreclosure_area] cabernet	1
+[location.hud_foreclosure_area] ca weather	1
+[location.hud_foreclosure_area] buyers club	1
+[location.hud_foreclosure_area] bull	1
+[location.hud_foreclosure_area] bucks	1
+[location.hud_foreclosure_area] browns	1
+[location.hud_foreclosure_area] broncos	1
+[location.hud_foreclosure_area] bridge park	1
+[location.hud_foreclosure_area] brewers schedule	1
+[location.hud_foreclosure_area] brewers	1
+[location.hud_foreclosure_area] breweries	1
+[location.hud_foreclosure_area] braves tickets	1
+[location.hud_foreclosure_area] braves schedule	1
+[location.hud_foreclosure_area] braves	1
+[location.hud_foreclosure_area] border	1
+[location.hud_foreclosure_area] bombing	1
+[location.hud_foreclosure_area] bodies found	1
+[location.hud_foreclosure_area] bodies	1
+[location.hud_foreclosure_area] boardwalk hotels	1
+[location.hud_foreclosure_area] blues	1
+[location.hud_foreclosure_area] blue zone	1
+[location.hud_foreclosure_area] blue laws	1
+[location.hud_foreclosure_area] birthday	1
+[location.hud_foreclosure_area] bike	1
+[location.hud_foreclosure_area] beyonce	1
+[location.hud_foreclosure_area] bengals	1
+[location.hud_foreclosure_area] bell	1
+[location.hud_foreclosure_area] beckham	1
+[location.hud_foreclosure_area] bear viewing	1
+[location.hud_foreclosure_area] beach passes	1
+[location.hud_foreclosure_area] bau	1
+[location.hud_foreclosure_area] baseball	1
+[location.hud_foreclosure_area] base	1
+[location.hud_foreclosure_area] band	1
+[location.hud_foreclosure_area] ballet	1
+[location.hud_foreclosure_area] bagel	1
+[location.hud_foreclosure_area] baby cakes	1
+[location.hud_foreclosure_area] astros	1
+[location.hud_foreclosure_area] art	1
+[location.hud_foreclosure_area] arch	1
+[location.hud_foreclosure_area] apple	1
+[location.hud_foreclosure_area] animal shelter	1
+[location.hud_foreclosure_area] al gore	1
+[location.hud_foreclosure_area] al capone	1
+[location.hud_foreclosure_area] airports	1
+[location.hud_foreclosure_area] air show 2017	1
+[location.hud_foreclosure_area] advocate	1
+[location.hud_foreclosure_area] advance	1
+[location.hud_foreclosure_area] abductions	1
+[location.hud_foreclosure_area] a&m	1
+[location.hud_foreclosure_area] 99	1
+[location.hud_foreclosure_area] 98110	1
+[location.hud_foreclosure_area] 95959	1
+[location.hud_foreclosure_area] 95608	1
+[location.hud_foreclosure_area] 95482	1
+[location.hud_foreclosure_area] 95472	1
+[location.hud_foreclosure_area] 95070	1
+[location.hud_foreclosure_area] 95035	1
+[location.hud_foreclosure_area] 95014	1
+[location.hud_foreclosure_area] 94965	1
+[location.hud_foreclosure_area] 94941	1
+[location.hud_foreclosure_area] 94901	1
+[location.hud_foreclosure_area] 94608	1
+[location.hud_foreclosure_area] 94588	1
+[location.hud_foreclosure_area] 94404	1
+[location.hud_foreclosure_area] 94305	1
+[location.hud_foreclosure_area] 94063	1
+[location.hud_foreclosure_area] 94062	1
+[location.hud_foreclosure_area] 94027	1
+[location.hud_foreclosure_area] 94025	1
+[location.hud_foreclosure_area] 94022	1
+[location.hud_foreclosure_area] 94015	1
+[location.hud_foreclosure_area] 94010	1
+[location.hud_foreclosure_area] 93923	1
+[location.hud_foreclosure_area] 93446	1
+[location.hud_foreclosure_area] 93407	1
+[location.hud_foreclosure_area] 93108	1
+[location.hud_foreclosure_area] 93065	1
+[location.hud_foreclosure_area] 93012	1
+[location.hud_foreclosure_area] 92887	1
+[location.hud_foreclosure_area] 92886	1
+[location.hud_foreclosure_area] 92840	1
+[location.hud_foreclosure_area] 92692	1
+[location.hud_foreclosure_area] 92691	1
+[location.hud_foreclosure_area] 92675	1
+[location.hud_foreclosure_area] 92629	1
+[location.hud_foreclosure_area] 92626	1
+[location.hud_foreclosure_area] 92354	1
+[location.hud_foreclosure_area] 92277	1
+[location.hud_foreclosure_area] 92270	1
+[location.hud_foreclosure_area] 92260	1
+[location.hud_foreclosure_area] 92231	1
+[location.hud_foreclosure_area] 92210	1
+[location.hud_foreclosure_area] 92067 united states	1
+[location.hud_foreclosure_area] 92024	1
+[location.hud_foreclosure_area] 92020	1
+[location.hud_foreclosure_area] 91911	1
+[location.hud_foreclosure_area] 91739	1
+[location.hud_foreclosure_area] 91730	1
+[location.hud_foreclosure_area] 91702	1
+[location.hud_foreclosure_area] 91362	1
+[location.hud_foreclosure_area] 91361	1
+[location.hud_foreclosure_area] 91301	1
+[location.hud_foreclosure_area] 90703	1
+[location.hud_foreclosure_area] 90292	1
+[location.hud_foreclosure_area] 90266	1
+[location.hud_foreclosure_area] 90254	1
+[location.hud_foreclosure_area] 90250	1
+[location.hud_foreclosure_area] 90232	1
+[location.hud_foreclosure_area] 90230	1
+[location.hud_foreclosure_area] 90058	1
+[location.hud_foreclosure_area] 90046	1
+[location.hud_foreclosure_area] 60077	1
+[location.hud_foreclosure_area] 500	1
+[location.hud_foreclosure_area] 49ers	1
+[location.hud_foreclosure_area] 33134	1
+[location.hud_foreclosure_area] 32830	1
+[location.hud_foreclosure_area] 20151	1
+[location.hud_foreclosure_area] 2014	1
+[location.hud_foreclosure_area] 1965	1
+[location.hud_foreclosure_area] 1963	1
+[location.hud_foreclosure_area] 19406	1
+[location.hud_foreclosure_area] 1892	1
+[location.hud_foreclosure_area] 12866	1
+[location.hud_foreclosure_area] 11530	1
+[location.hud_foreclosure_area] 11030	1
+[location.hud_foreclosure_area] 11021	1
+[location.hud_foreclosure_area] 10591	1
+[location.hud_foreclosure_area] 10583	1
+[location.hud_foreclosure_area] 10550	1
+[location.hud_foreclosure_area] 10514	1
+[location.hud_foreclosure_area] 10504	1
+[location.hud_foreclosure_area] 07652	1
+[location.hud_foreclosure_area] 07601	1
+[location.hud_foreclosure_area] 07073	1
+[location.hud_foreclosure_area] 02740	1
+[location.hud_foreclosure_area] 02155	1
+[location.hud_foreclosure_area] 01060	1
+[location.hud_foreclosure_area] & southern railroad	1
