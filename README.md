@@ -38,7 +38,28 @@ Intent categories predicted in the *refiners categorization* pipeline stage (Sec
 
 ```
 <type>	<refiner>	<category>
+```
 
+### Search results
+
+Additionally, the results of searching for entity-bearing queries with Google Custom Search Engine (CSE) (Sect. 4.2 of the paper) are contained under 2 compressed directories (`freq_{5_to_9,10+}.tar.gz`), shared in this [link](link) **TODO** . Once decompressed:
+
+  - A file `cse_results-freq_10+/<type>/query_<i>.json` contains the JSON response after searching for the actual entity-bearing query that results from instantiating the `(i+1)`-th type-level query pattern with the most prominent entity of that type. (Such a pattern is the one in the `(i+1)`-th row of `data/1-refiners_acquisition/3-type_level_query_patterns/<type>.tsv`.)
+  - Analogously, a file `cse_results-freq_5_to_9/<type>/query_<i>.json` contains the JSON responses for less frequent type-level refiners. Specifically, it contains the response for the `(i+1)`-th type-level query pattern, considering *only* the patterns with frequency in the range `[5..9]` (i.e., the pattern in the `(i + N_<type> + 1)`-th row of `data/1-refiners_acquisition/3-type_level_query_patterns/<type>.tsv`, with `N_<type>` being the number of query patterns for `<type>` with frequency larger than 9).
+
+Each JSON file is in this format:
+
+```
+{
+    "1_type": <type>,
+    "2_tl_q": <type-level query pattern>,
+    "3_ae_q": <actual entity-bearing query>,
+    "4_f": <frequency of type-level query pattern>,
+    "5_results": {
+        "items": <list of top-10 search results>,
+        ...
+    }
+}
 ```
 
 
