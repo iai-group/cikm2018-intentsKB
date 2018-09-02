@@ -7,7 +7,7 @@ This repository provides resources developed within the following paper:
 These resources allow to reproduce the results presented in the paper.
 
 
-## 1. Refiners Acquisition
+## 1. Refiner Acquisition
 
 Data obtained in the *refiners acquisition* pipeline stage (Sect. 5.1 of the paper) are placed under the directory `data/1-refiners_acquisition/`. 
 
@@ -32,7 +32,7 @@ Data obtained in the *refiners acquisition* pipeline stage (Sect. 5.1 of the pap
 ```
 
 
-## 2. Refiners Categorization
+## 2. Refiner Categorization
 
 Intent categories predicted in the *refiners categorization* pipeline stage (Sect. 5.2 of the paper) are contained in the tab-separated file `data/2-refiners_categorization/predictions.tsv`. Each row in the file is of the shape: 
 
@@ -62,8 +62,36 @@ Each JSON file is in this format:
 }
 ```
 
+### Features table
 
-## 3. Intents Discovery
+  - Group I - Lexical features:
+
+| Id | Feature description | Value |
+| --- | --- | --- |
+| 1 | Length of the top result title, in characters | {1, ..., <img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />} |
+| 2 | Avg. length of the 10 result titles, in characters | {1, ..., <img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />} |
+| 3 | Length of the top result snippet, in characters | {1, ..., <img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />} |
+| 4 | Avg. length of the 10 result snippets, in characters | {1, ..., <img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />} |
+| 5 | Number of `/` in the top result URL | {0, ..., <img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />} |
+| 6 | Avg. number of `/` in the top 10 result URLs | {0, ..., <img src="https://latex.codecogs.com/gif.latex?\infty" title="\infty" />} |
+| 7 | Size of the URL domains set among all top 10 result URLs. | {1, ..., 10} |
+| 8 | Jaro distance between the refiner and the top result URL | [0..1] |
+| 9 | Avg. Jaro distance between the refiner and each of the top 10 result URLs | [0..1] |
+| 10 | Avg. Jaro distance between all the top 10 result URLs | [0..1] |
+| 11-13 | {Max., Min., Mean} aggregated term-to-term Jaro distance between the refiner and the top result title | [0..1] |
+| 14-16 | Avg. {max., min., mean} aggregated term-to-term Jaro distance between the refiner and the top 10 result titles | [0..1] |
+
+
+  - Group II - Semantic features:
+
+| Id | Feature description | Value |
+| --- | --- | --- |
+| 17 | Cosine sim. between the refiner and type *word2vec* vectors aggregated over all their resp. terms | [0..1] |
+
+
+
+
+## 3. Intent Discovery
 
 Entity-oriented search intents discovered in the *intents discovery* pipeline stage (Sect. 5.3 of the paper) are stored in the tab-separated file `data/3-intents_discovery/clustering.tsv`. Each row in the file is in the format: 
 
