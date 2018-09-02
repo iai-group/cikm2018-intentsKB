@@ -62,9 +62,9 @@ Each JSON file is in this format:
 }
 ```
 
-### Features table
+### Table of lexical features
 
-  - Group I - Lexical features:
+This is the full list of lexical features for refiner categorization (Sect. 4.2.1 of the paper):
 
 | Id | Feature description | Value |
 | --- | --- | --- |
@@ -80,15 +80,6 @@ Each JSON file is in this format:
 | 10 | Avg. Jaro distance between all the top 10 result URLs | [0..1] |
 | 11-13 | {Max., Min., Mean} aggregated term-to-term Jaro distance between the refiner and the top result title | [0..1] |
 | 14-16 | Avg. {max., min., mean} aggregated term-to-term Jaro distance between the refiner and the top 10 result titles | [0..1] |
-
-
-  - Group II - Semantic features:
-
-| Id | Feature description | Value |
-| --- | --- | --- |
-| 17 | Cosine sim. between the refiner and type *word2vec* vectors aggregated over all their resp. terms | [0..1] |
-
-
 
 
 ## 3. Intent Discovery
