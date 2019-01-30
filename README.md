@@ -2,9 +2,13 @@
 
 This repository provides resources developed within the following paper:
 
-> D. Garigliotti and K. Balog. IntentsKB: A Knowledge Base of Entity-Oriented Search Intents. In CIKM'18, October 2018.
+> D. Garigliotti and K. Balog. IntentsKB: A Knowledge Base of Entity-Oriented Search Intents. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18), pp. . 2018.
 
-These resources allow to reproduce the results presented in the paper.
+**You can get the author version of the article [here](https://arxiv.org/abs/1809.00345).**
+
+### Abstract
+
+> *We address the problem of constructing a knowledge base of entity-oriented search intents. Search intents are defined on the level of entity types, each comprising of a high-level intent category (property, website, service, or other), along with a cluster of query terms used to express that intent. These machine-readable statements can be leveraged in various applications, e.g., for generating entity cards or query recommendations. By structuring service-oriented search intents, we take one step towards making entities actionable. The main contribution of this paper is a pipeline of components we develop to construct a knowledge base of entity intents. We evaluate performance both component-wise and end-to-end, and demonstrate that our approach is able to generate high-quality data.* 
 
 
 ## 1. Refiner Acquisition
@@ -101,6 +105,24 @@ The final knowledge base (Sect. 5.4 of the paper) is stored in the tab-separated
 ```
 
 Here, `<object>` is `-` for the predicate `isAProfile` (each meaning a quadruple that only states the confidence of the intent profile; cf. Eq. (1) of the paper).
+
+
+## Citation
+
+If you use the resources presented in this repository, please cite:
+
+```
+@inproceedings{Garigliotti:2018:IKB,
+ author =    {Dar\'{i}o Garigliotti and Krisztian Balog},
+ title =     {IntentsKB: A Knowledge Base of Entity-Oriented Search Intents},
+ booktitle = {Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+ series =    {CIKM '18},
+ year =      {2018},
+ pages =     {1659--1662},
+ doi =       {10.1145/3269206.3269257},
+ publisher = {ACM}
+}
+```
 
 
 ## Contact
