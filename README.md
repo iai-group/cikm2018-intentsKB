@@ -2,7 +2,7 @@
 
 This repository provides resources developed within the following article:
 
-> D. Garigliotti and K. Balog. IntentsKB: A Knowledge Base of Entity-Oriented Search Intents. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18), Turin, Italy. ACM. October 2018. [DOI: 10.1145/3269206.3269257](https://doi.org/10.1145/3269206.3269257)
+> D. Garigliotti and K. Balog. IntentsKB: A Knowledge Base of Entity-Oriented Search Intents. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18). ACM. Turin, Italy. October 2018. [DOI: 10.1145/3269206.3269257](https://doi.org/10.1145/3269206.3269257)
 
 **You can get the author version of the article [here](https://arxiv.org/abs/1809.00345).**
 
