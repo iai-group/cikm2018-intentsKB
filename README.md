@@ -1,6 +1,6 @@
 # IntentsKB: A Knowledge Base of Entity-Oriented Search Intents
 
-This repository provides resources developed within the following paper:
+This repository provides resources developed within the following article:
 
 > D. Garigliotti and K. Balog. IntentsKB: A Knowledge Base of Entity-Oriented Search Intents. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18). 2018.
 
