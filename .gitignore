@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.pyc
+doc/build
+/_*/
+/dist/
+/*.egg-info
+build/
+.project
+.pydevproject
+.idea
+__pycache__
+/.idea/
+!.gitignore
+!doc/Makefile
+.texpadtmp
+.DS_Store
